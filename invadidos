@@ -23,6 +23,6 @@
 </head>
 <body>
   <h1>Mapa de Nivel de Riesgo</h1>
-  <img src="/Users/mauraroldan/Desktop/proyectos/proyectos_personales/results/mapa_invadidos.png" alt="Mapa de riesgo de invasiones">
+  <img src="mapa_invadidos.png" alt="Mapa de riesgo de invasiones">
 </body>
 </html>
